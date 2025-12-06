@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"golang/furtherexplored"
+	"github.com/amonvix/golang/hands-on/practice14-scope/furtherexplored"
 )
 
 // x is in "package block" scope
